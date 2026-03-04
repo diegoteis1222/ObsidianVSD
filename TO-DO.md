@@ -1,0 +1,6 @@
+- [x] Ortogonalidad
+- [x] Modelo orbital
+- [ ] Libros
+- [ ] Nombres
+- [ ] Drones aeropuertos bélgica
+- [ ] Cosas que comentar a Sócrates

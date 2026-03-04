@@ -1,0 +1,12 @@
+- Algo que SABES (Factor de Conocimiento):
+	- Una contraseña.
+	- Una pregunta de seguridad.
+	- Un pin.
+- Algo que TIENES (Factor de Posesión):
+	- Un número de móvil.
+	- Una tarjeta con PIN.
+	- Un token hardware (OTP, RFID)
+- Algo que ERES (Factor de Herencia):
+	- Una huella.
+	- Un patrón de retina.
+	- Un reconocimiento facial.

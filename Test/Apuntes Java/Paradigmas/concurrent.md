@@ -1,0 +1,2 @@
+Modo de ejecución de programas donde varias operaciones se realizan al mismo tiempo o durante períodos de tiempo que se superponen en lugar de ejecutarse una operación tras otra.
+Cada operación tiene su propio punto de ejecución (hilo).

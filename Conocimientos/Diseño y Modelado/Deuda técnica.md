@@ -1,3 +1,5 @@
+**Deuda técnica es antónimo de calidad y sostenibilidad por atajos y soluciones rápidas.** 
+
 La deuda técnica es el coste futuro de retrabajo derivado de elegir soluciones rápidas, fáciles o subóptimas en el desarrollo de software hoy, en lugar de un enfoque más efectivo a largo plazo. Similar a una deuda financiera, permite lanzar funcionalidades rápido pero genera "intereses" (mayor mantenimiento, bugs, lentitud), si no se corrige.
 
 Características clave:

@@ -1,11 +1,14 @@
 
-#### [[Arquitectura]] ####
+Desarrollo personal:
+- [[Conceptos]]
+- [[Resolución de Problemas]]
 
-#### [[Bases de datos]] ####
-#### [[DevOps]] ####
-#### [[General]] ####
+[[Diseño y Modelado]]
 
-#### [[Java]] ####
-#### [[Metodologías]] ####
+Programación:
+- [[Conceptos]]
+- [[Herramientas]]
+- [[Lenguajes]]
+- [[Metodologías]]
 
-#### [[Paradigmas]] ####
+

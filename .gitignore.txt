@@ -1,7 +1,0 @@
-Logs Quincenales/
-./Logs Quincenales
-./Logs Quincenales/
-./Logs Quincenales/*
-.obsidian/
-./obsidian/
-.obsidian

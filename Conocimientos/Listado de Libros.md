@@ -4,3 +4,5 @@
 
 #### TÉCNICOS
 *Modern Software Engineering* (David Farley)
+*Javascript: The Good Paths* (Douglas Crockford)
+*Learning Domain-Driven Design*: *El Libro del Mono* (Vlad Khononov)

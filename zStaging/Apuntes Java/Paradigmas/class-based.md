@@ -1,3 +1,0 @@
-Estilo de programación orientada a objetos en la cual todos los objetos se crean a partir de clases, tampoco se crean los objetos directamente, siempre vienen de un molde llamado class, esta define la estructura y el comportamiento de los objetos.
-
-La encapsulación consiste en proteger los datos internos de un objeto para mantener su consistencia y poder cambiar la implementación interna del objeto sin afectar a su código.

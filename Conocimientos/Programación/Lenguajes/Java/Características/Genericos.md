@@ -1,9 +1,8 @@
-
 Permiten definir clases, interfaces y métodos que funcionan con diferentes tipos de datos.
 
 Ejemplos: 
 
-```
+```java
 class Caja<T> {
     private T contenido;
 
@@ -17,7 +16,7 @@ class Caja<T> {
 }
 ```
 
-```
+``` java
 Caja<String> cajaString = new Caja<>();
 cajaString.set("Hola");
 System.out.println(cajaString.get()); // Imprime: Hola
@@ -27,7 +26,7 @@ cajaEntero.set(123);
 System.out.println(cajaEntero.get()); // Imprime: 123
 ```
 
-```
+```java
 public class Utilidades {
     public static <T> void imprimirArray(T[] array) {
         for (T elemento : array) {
@@ -46,7 +45,7 @@ Utilidades.imprimirArray(palabras);
 
 Se puede limitar que tipos pueden usarse usando extends:
 
-```
+```java
 class CajaNumerica<T extends Number> {
     private T numero;
 

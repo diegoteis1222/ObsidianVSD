@@ -10,3 +10,10 @@ MÉTODO CIENTÍFICO:
 7. Conclusión
 8. Comunicación
 
+O, de manera más aplicada...
+1. ¿Qué queremos resolver?
+2. ¿De qué manera podemos resolverlo?
+3. Si lo resolvemos de esta manera, ¿Qué resultado obtendremos?
+4. Lo ponemos a prueba
+5. Ponderamos sobre los resultados
+

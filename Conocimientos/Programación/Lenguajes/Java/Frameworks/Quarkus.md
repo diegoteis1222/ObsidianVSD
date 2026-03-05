@@ -8,3 +8,4 @@ Es ideal para entornos cloud native, permitiendo combinar modelos de programaci�
 - **Compatibilidad:** Soporta estándares como Jakarta EE y MicroProfile.
 - **Compilación Nativa:** Utiliza GraalVM para crear ejecutables independientes.
 - **Integración:** Compatible con herramientas como Maven, Gradle y los principales IDEs (VS Code, IntelliJ)
+- Puede generar proxies estáticas, a diferencia de las [Proxies dinámicas] de Springboot, haciéndolo más ligero en runtime. 

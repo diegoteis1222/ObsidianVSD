@@ -14,8 +14,11 @@
 
 # Diseño y Modelado
 
+- [C4Model](Diseño%20y%20Modelado/C4Model)
 - [Cinco niveles de Diseño](Diseño%20y%20Modelado/Cinco%20niveles%20de%20Diseño.md)
 - [Deuda técnica](Diseño%20y%20Modelado/Deuda%20técnica.md)
+- [Matriz RACId](Diseño%20y%20Modelado/Matriz%20RACId.md)
+- [Teorema de CAP](Diseño%20y%20Modelado/Teorema%20de%20CAP)
 - [Uso del Método Científico](Diseño%20y%20Modelado/Uso%20del%20Método%20Científico.md)
 
 # Programación

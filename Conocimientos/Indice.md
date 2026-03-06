@@ -10,6 +10,3 @@ Programación:
 - [[Herramientas]]
 - [[Lenguajes]]
 - [[Metodologías]]
-
-
-uhigfeiurgbviur3qe

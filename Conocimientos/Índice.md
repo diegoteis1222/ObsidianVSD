@@ -21,6 +21,7 @@
 - [Teorema de CAP](Diseño%20y%20Modelado/Teorema%20de%20CAP)
 - [Uso del Método Científico](Diseño%20y%20Modelado/Uso%20del%20Método%20Científico.md)
 - [[Anduril Industries]]
+- [[Arquitectura Software]]
 # Programación
 
 ### Conceptos

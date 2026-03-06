@@ -8,6 +8,7 @@
 ### Resolución de Problemas
 
 - [ADKAR](Desarrollo%20personal/Resolución%20de%20Problemas/ADKAR.md)
+- [Bus factor](Desarrollo%20personal/Resolución%20de%20Problemas/Bus%20factor)
 - [Cuatro preguntas críticas](Desarrollo%20personal/Resolución%20de%20Problemas/Cuatro%20preguntas%20críticas.md)
 - [Modelo ORBIT](Desarrollo personal/Resolución de Problemas/Modelo%20ORBIT.md)
 
